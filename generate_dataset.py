@@ -64,7 +64,7 @@ def fingers_analisys(points,frame):
        # print(alfa1.flatten())
 
                 
-        result = np.concatenate((d.flatten(),alfa1.flatten(),alfa2.flatten(),alfa3.flatten(),[2]))
+        result = np.concatenate((d.flatten(),alfa1.flatten(),alfa2.flatten(),alfa3.flatten(),[4]))
      
        # result = np.concatenate((d.flatten(),alfa1.flatten(),alfa2.flatten(),alfa3.flatten()))
       
